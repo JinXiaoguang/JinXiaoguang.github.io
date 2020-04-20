@@ -1,18 +1,18 @@
 [
   {
-    "icon": "fa-facebook",
+    "icon": "qq",
+    "link": "http://wpa.qq.com/msgrd?v=3&uin=1073355443&site=qq&menu=yes"
+  },
+  {
+    "icon": "wechat",
     "link": ""
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "github",
+    "link": "https://github.com/JinXiaoguang"
   }
+#  {
+#    "icon": "fa-stack-exchange",
+#    "link": ""
+#  }
 ]
